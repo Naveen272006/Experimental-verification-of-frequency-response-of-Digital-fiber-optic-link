@@ -1,6 +1,8 @@
 # Experimental-verification-of-frequency-response-of-Digital-fiber-optic-link
-
 # Fiber Optic Digital Link Experiment (660nm & 950nm)
+
+## NAME: NAVEEN A
+## REG.NO:212223060183
 
 ## AIM
 To study a **660nm & 950nm Fiber Optic Digital Link**.  
